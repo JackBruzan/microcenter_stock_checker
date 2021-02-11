@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MicrocenterStockChecker/MicrocenterStockChecker/obj
+/MicrocenterStockChecker/.vs/MicrocenterStockChecker
+/MicrocenterStockChecker/MicrocenterStockChecker/bin/Debug
